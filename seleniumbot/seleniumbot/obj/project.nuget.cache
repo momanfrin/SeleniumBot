@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hiAuZoNZSSHR8omEbP7GzZDZsa02JzDl5MJEvAz4iBHBVPO+ob9tWS+mM3sf00L+YU7tuPDLuuWc3wejcmrl3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\monique.manfrin\\OneDrive - IT LAB\\Área de Trabalho\\J&J\\seleniumbot\\seleniumbot\\seleniumbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monique.manfrin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\monique.manfrin\\.nuget\\packages\\selenium.support\\4.8.1\\selenium.support.4.8.1.nupkg.sha512",
+    "C:\\Users\\monique.manfrin\\.nuget\\packages\\selenium.webdriver\\4.8.1\\selenium.webdriver.4.8.1.nupkg.sha512",
+    "C:\\Users\\monique.manfrin\\.nuget\\packages\\selenium.webdriver.chromedriver\\110.0.5481.7700\\selenium.webdriver.chromedriver.110.0.5481.7700.nupkg.sha512"
+  ],
+  "logs": []
+}

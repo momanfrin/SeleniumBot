@@ -1,0 +1,8 @@
+C:\projetosDicoC\Rpa\NetflixExtractor\NetflixExtractor\NetflixExtractor\bin\Debug\NetflixExtractor.exe
+C:\projetosDicoC\Rpa\NetflixExtractor\NetflixExtractor\NetflixExtractor\bin\Debug\WebDriver.dll
+C:\projetosDicoC\Rpa\NetflixExtractor\NetflixExtractor\NetflixExtractor\bin\Debug\NetflixExtractor.exe.config
+C:\projetosDicoC\Rpa\NetflixExtractor\NetflixExtractor\NetflixExtractor\obj\Debug\MovieExtractor.csproj.CoreCompileInputs.cache
+C:\projetosDicoC\Rpa\NetflixExtractor\NetflixExtractor\NetflixExtractor\obj\Debug\MovieExtractor.csproj.CopyComplete
+C:\projetosDicoC\Rpa\NetflixExtractor\NetflixExtractor\NetflixExtractor\obj\Debug\NetflixExtractor.exe
+C:\projetosDicoC\Rpa\NetflixExtractor\NetflixExtractor\NetflixExtractor\obj\Debug\NetflixExtractor.pdb
+C:\projetosDicoC\Rpa\NetflixExtractor\NetflixExtractor\NetflixExtractor\bin\Debug\NetflixExtractor.pdb

@@ -1,0 +1,4 @@
+C:\Users\monique.manfrin\OneDrive - IT LAB\Área de Trabalho\J&J\nielsenLogin\NetflixExtractor\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\monique.manfrin\OneDrive - IT LAB\Área de Trabalho\J&J\nielsenLogin\NetflixExtractor\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\monique.manfrin\OneDrive - IT LAB\Área de Trabalho\J&J\nielsenLogin\NetflixExtractor\obj\Debug\NetflixExtractor.exe
+C:\Users\monique.manfrin\OneDrive - IT LAB\Área de Trabalho\J&J\nielsenLogin\NetflixExtractor\obj\Debug\NetflixExtractor.pdb
